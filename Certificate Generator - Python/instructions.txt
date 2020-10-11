@@ -1,0 +1,5 @@
+Instructions -
+1. Select a rectangle for Name, and press ENTER.
+2. Select a rectangle for Date, and press ENTER.
+3. Select a rectangle for Project Name, and press ENTER.
+4. Select a rectangle for Position, and press ENTER.
